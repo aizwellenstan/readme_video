@@ -1,3 +1,4 @@
-<video src="https://github.com/aizwellenstan/readme_video/blob/main/tutorial.mp4"/>
-<br/>
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/aizwellenstan/readme_video/blob/main/tutorial.mp4)
+
+
+https://user-images.githubusercontent.com/39293145/159652661-9631d665-a912-4a43-a089-f06b63ef9aa4.mp4
+
